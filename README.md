@@ -152,8 +152,8 @@ Custom columns and measures used in the report:
 ---
 
 ## Demo 
-[!Credit Card Customer Dashboard](https://github.com/patidarharsh29/Credit-Card-Analytics-Dashboard-/blob/main/CC%20customer%20dashboard.png).
-[!Credit Card Transaction Dashboard](https://github.com/patidarharsh29/Credit-Card-Analytics-Dashboard-/blob/main/CC%20transaction%20dashboard.png).
+[Credit Card Customer Dashboard](https://github.com/patidarharsh29/Credit-Card-Analytics-Dashboard-/blob/main/CC%20customer%20dashboard.png)
+[Credit Card Transaction Dashboard](https://github.com/patidarharsh29/Credit-Card-Analytics-Dashboard-/blob/main/CC%20transaction%20dashboard.png)
 
 ## Author
 
